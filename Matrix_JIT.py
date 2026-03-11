@@ -1,11 +1,11 @@
 """
-This is a demonstration of a simple functional relationship and how to use JAX with analytical functions.
+This is a demonstration of Matrix analysis using JAX along with looking at scalability with complications.
 - Created by Dr. Matthew Bonney
 Swansea University
 
 Tested on Python 3.11.9
 To install packages:
-pip install numpy jax matplotlib
+pip install numpy jax matplotlib scipy
 """
 import numpy as np
 import scipy.linalg as la
